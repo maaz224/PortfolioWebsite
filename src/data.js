@@ -3,7 +3,7 @@
 export const projects = [
     {
     title: "MedCodeAI",
-    subtitle: "React Hooks, Typescript, API calls, and AI integration",
+    subtitle: "React Hooks, Typescript, API calls, and AI",
     description:
       "Medical Billing AI app that tells you CPT and ICD10 codes and Reinbursement Rates",
     image: "https://i.ibb.co/yddtPpN/Screenshot-2024-06-27-144918.png",
