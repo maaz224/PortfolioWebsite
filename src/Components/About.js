@@ -32,11 +32,11 @@ const About = () => {
               </Typography>
               <Typography variant="body1" paragraph sx={{ mb: 4 }}>
                 As a Junior Front End Developer with 1-2 years of freelance
-                experience, I am seeking a challenging role where I can utilize
+                experience,  and a few years of professional experience  I am seeking a challenging role where I can utilize
                 my proficiency in JavaScript, CSS, HTML, React, Bootstrap, and
-                Node.js. With a strong educational background in biochemistry
-                from Baylor University, I aim to leverage my technical skills
-                and passion for web development to contribute to a dynamic team.
+                Node.js. I have  a strong educational background in biochemistry
+                from Baylor University, and I aim to leverage my technical skills
+                and passion for web development to contribute to a dynamic team, i have experience in application and software development as well. 
               </Typography>
               <Box sx={{ display: "flex", justifyContent: "center", gap: 2 }}>
                 <Button
