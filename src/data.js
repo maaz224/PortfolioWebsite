@@ -1,6 +1,14 @@
 // src/data.js
 
 export const projects = [
+    {
+    title: "MedCodeAI",
+    subtitle: "React Hooks, Typescript, API calls, and AI integration",
+    description:
+      "Medical Billing AI app that tells you CPT and ICD10 codes and Reinbursement Rates",
+    image: "https://i.ibb.co/yddtPpN/Screenshot-2024-06-27-144918.png",
+    link: "https://medcoderai.netlify.app/",
+  },
   {
     title: "React Multistep Form",
     subtitle: "React and Bootstrap",
@@ -38,8 +46,14 @@ export const skills = [
   "CSS",
   "JavaScript",
   "TypeScript",
-  "React",
+  "React.js",
   "Bootstrap",
   "Node.js",
   "Material UI",
+  "Express.js",
+  "Github",
+  "RESTful API",
+  "JQuery",
+  "Frontend and Backend Tools",
+  "End to End Developement",
 ];
