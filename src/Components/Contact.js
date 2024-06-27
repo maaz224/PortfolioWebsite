@@ -122,6 +122,7 @@ const Contact = () => {
           <Grid item xs={12} md={5}>
             <Paper elevation={3} sx={{ p: 5, textAlign: "center" }}>
               <form onSubmit={handleSubmit} name="contact" data-netlify="true">
+                    <input type="hidden" name="form-name" value="contact"/>
                 <Typography variant="h4" gutterBottom>
                   Contact Me
                 </Typography>
