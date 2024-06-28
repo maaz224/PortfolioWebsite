@@ -31,8 +31,8 @@ const About = () => {
                 <br /> Front End Developer
               </Typography>
               <Typography variant="body1" paragraph sx={{ mb: 4 }}>
-                As a Junior Front End Developer with 1-2 years of freelance
-                experience,  and a few years of professional experience  I am seeking a challenging role where I can utilize
+                As a Junior Front End Developer with 2 years of freelancing
+                experience, and a few years of professional experience. I am seeking a challenging role where I can utilize
                 my proficiency in JavaScript, CSS, HTML, React, Bootstrap, and
                 Node.js. I have  a strong educational background in biochemistry
                 from Baylor University, and I aim to leverage my technical skills
